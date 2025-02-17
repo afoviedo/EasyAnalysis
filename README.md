@@ -2,8 +2,6 @@
 
 A **Streamlit-powered** web application for **exploratory data analysis (EDA)** that allows users to **upload datasets**, generate **interactive visualizations**, and perform **cohort-based analysis** effortlessly.
 
-![App Screenshot](https://via.placeholder.com/1000x500.png?text=App+Preview)
-
 ---
 
 ## 🚀 Features
@@ -80,9 +78,7 @@ streamlit run app.py
 
 🚀 **Want to deploy online?** Use platforms like:
 - [Streamlit Cloud](https://share.streamlit.io)
-- [Heroku](https://www.heroku.com/)
-- [AWS EC2](https://aws.amazon.com/ec2/)
-
+  
 ---
 
 ## 🤝 Contributing
@@ -101,5 +97,5 @@ Want to improve this tool? Contributions are **welcome & encouraged!**
 
 This project is **open-source** under the **MIT License**. Feel free to contribute and enhance it! 🚀
 
-📧 Have questions? Contact [Your Name](mailto:your.email@example.com).
+📧 Have questions? Contact [Fernando Oviedo M](mailto:fernando.ov@outlook.com).
 
